@@ -8,3 +8,17 @@ nav a{
     margin-right: 15px;
     text-decoration: none;
 }
+
+.event-card {
+    background: #fff;
+    border-left: 5px solid #3498db;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 4px;
+    list-style: none;
+}
+
+.event-date {
+    font-weight: bold;
+    color: #e67e22;
+}
