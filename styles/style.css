@@ -8,3 +8,16 @@ nav a{
     margin-right: 15px;
     text-decoration: none;
 }
+.intro-section {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.team-list {
+    color: #34495e;
+    line-height: 1.8;
+}
